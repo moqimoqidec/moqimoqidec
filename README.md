@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @moqimoqidec
+- 👀 I’m interested in code.
+- 🌱 I’m currently learning ai coding.
